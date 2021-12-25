@@ -1,5 +1,5 @@
 # 104-OS-Shell
-2016 Operating Systems Homework Assignment
+2016 Operating Systems Homework
 
 You can type the key word below.
 
