@@ -29,3 +29,5 @@ to compile the main program with debugging function,also it will not show the co
 
 - - -
 
+## DEMO
+![](https://github.com/lee850220/104-OS-Shell/blob/main/DEMO.png)
